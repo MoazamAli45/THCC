@@ -40,10 +40,6 @@ const Hero = () => {
                 <ButtonPrimary styles="bg-white text-teal">
                   Call Us 0097431399058
                 </ButtonPrimary>
-
-                <ButtonPrimary styles="bg-transparent text-off-white border-[1px] border-solid border-off-white">
-                  View Our Services
-                </ButtonPrimary>
               </div>
             </div>
           </div>
@@ -68,11 +64,7 @@ const Hero = () => {
             </Typography.PLarge>
             <div className="flex gap-[20px] my-[10px]">
               <ButtonPrimary styles="bg-white text-teal">
-                Book free Consultation
-              </ButtonPrimary>
-
-              <ButtonPrimary styles="bg-transparent text-off-white border-[1px] border-solid border-off-white ">
-                View Our Services
+                Call Us 0097431399058
               </ButtonPrimary>
             </div>
           </div>
