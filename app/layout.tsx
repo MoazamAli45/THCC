@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     creator: "@SyedMoazamALi19",
   },
   icons: "/favicon.ico",
-  metadataBase: new URL("https://case-cobra-ecommerce.vercel.app"),
+  metadataBase: new URL("https://thcc.vercel.app"),
 };
 
 export default function RootLayout({
