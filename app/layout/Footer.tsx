@@ -65,6 +65,9 @@ const Footer = () => {
                 <Typography.PLarge styles="text-off-white font-normal md:w-[80%]">
                   C.R. No: 189472, Doha - Qatar
                 </Typography.PLarge>
+                <Typography.PLarge styles="text-off-white font-normal md:w-[80%]">
+                  Email: companythcc@gmail.com
+                </Typography.PLarge>
               </ul>
             </div>
           </div>

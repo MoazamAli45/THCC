@@ -3,6 +3,7 @@ import Wrapper from "../../shared/Wrapper";
 import Typography from "../../shared/Typography";
 import { ButtonPrimary } from "../../shared/Buttons";
 import Image from "next/image";
+import Link from "next/link";
 
 const Services = () => {
   return (
@@ -28,9 +29,11 @@ const Services = () => {
                 support.
               </Typography.PLarge>
 
-              <ButtonPrimary styles="bg-teal text-off-white hover:bg-teal-hover sm:w-[50%] mt-[10px]">
-                View Offerings
-              </ButtonPrimary>
+              <Link href="#offerings">
+                <ButtonPrimary styles="bg-teal text-off-white hover:bg-teal-hover sm:w-[50%] mt-[10px]">
+                  View Offerings
+                </ButtonPrimary>
+              </Link>
             </div>
           </div>
           {/*   RIGHT SIDE */}
