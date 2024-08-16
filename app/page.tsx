@@ -1,0 +1,22 @@
+import Navbar from "./layout/Navbar";
+import Contact from "./components/Home/Contact";
+
+import Hero from "./components/Home/Hero";
+import Offerings from "./components/Home/Offerings";
+import Services from "./components/Home/Services";
+
+import Footer from "./layout/Footer";
+import React from "react";
+
+export default function Home() {
+  return (
+    <React.Fragment>
+      <Navbar />
+      <Hero />
+      <Services />
+      <Offerings />
+      <Contact />
+      <Footer />
+    </React.Fragment>
+  );
+}
