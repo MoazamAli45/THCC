@@ -7,6 +7,7 @@ import Services from "./components/Home/Services";
 
 import Footer from "./layout/Footer";
 import React from "react";
+import Features from "./components/Home/Features";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Services />
+      <Features />
       <Offerings />
       <Contact />
       <Footer />

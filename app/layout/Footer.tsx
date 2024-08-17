@@ -63,7 +63,8 @@ const Footer = () => {
                   Mob.: +974 31399058-30492554
                 </Typography.PLarge>
                 <Typography.PLarge styles="text-off-white font-normal md:w-[80%]">
-                  C.R. No: 189472, Doha - Qatar
+                  Address: P.O Box No 14326.building no .35.st no.901. zone.38
+                  al saad doha.qatar.
                 </Typography.PLarge>
                 <Typography.PLarge styles="text-off-white font-normal md:w-[80%]">
                   Email: companythcc@gmail.com
