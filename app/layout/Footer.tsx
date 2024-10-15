@@ -67,7 +67,7 @@ const Footer = () => {
                   al saad doha.qatar.
                 </Typography.PLarge>
                 <Typography.PLarge styles="text-off-white font-normal md:w-[80%]">
-                  Email: companythcc@gmail.com
+                  Email: thccqaterqater@gmail.com
                 </Typography.PLarge>
               </ul>
             </div>
